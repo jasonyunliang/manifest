@@ -2,9 +2,9 @@
 <manifest>
   <remote fetch="https://github.com/jasonyunliang/" name="origin" />
   
-  <default remote="origin" sync-j="4"  revision="master"/>
+  <default remote="origin" sync-j="4"  revision="main"/>
   
-  <project name="githubtest" path="githubtest" />
+  <project name="githubtestone" path="githubtest" />
   <project name="test" path="test"  />
   
 </manifest>
